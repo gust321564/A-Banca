@@ -1,0 +1,6 @@
+{
+  "name": "A Banca",
+  "description": "Plataforma de intermediação segura para venda e troca de figurinhas da Copa do Mundo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
